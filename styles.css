@@ -41,7 +41,7 @@ header {
 }
 
 .logo {
-  height: 50px;
+  height: 80px;
   margin-right: 1rem; /* Adjust margin to create space */
 }
 
@@ -123,21 +123,21 @@ main {
 }
 
 footer {
-  background-color: rgba(51, 51, 51, 0.7);
-  padding: 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.467);
+  padding: 2rem;
+  display: grid;
+  align-items: end;
+  justify-content: space-evenly;
   color: white;
 }
 
 .footer-content {
   display: flex;
-  align-items: center;
+  align-items: end;
 }
 
 .footer-logo {
-  height: 50px; /* Adjust height as needed */
+  height: 60px; /* Adjust height as needed */
   margin-right: 10px; /* Space between logo and text */
 }
 
